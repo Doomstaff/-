@@ -1,5 +1,6 @@
 <html>
 <head>
+<meta charset="utf-8">
 <title>Конрад Цузe. Биография.</title>
 <style>
    p.dline {
@@ -17,7 +18,7 @@
 <p class="dline">Чуть позже начал создавать проект города на 37 миллионов жителей.</p>
 <p class="dline">А в годы студенчества к нему впервые пришла идея создания автоматического программируемого вычислителя.</p>
 </h3>
-<th height="50" colspan=3 align="center">
+<th height="50" colspan="3" align="center">
 <table width="60%" border="2" cellspacing="0" bgcolor="#FFFAFA">
 <tr>
 <td align="center"><h4><p>Награды и премии:</p>	
@@ -44,7 +45,6 @@
 <br><br>
 <hr>
 <p class="dline">В 1940 году Цузе построил доработанную версию вычислителя - Z2 на основе телефонных реле. </p>
-
 <p class="dline">В отличие от Z1, новая машина считывала инструкции перфорированной 35-миллиметровой киноплёнки.</p>
 <p class="dline">Она тоже не использовалась для практических целей.</p>
 <p class="dline">В этом же году Цузе организовал компанию Zuse Apparatebau для производства программируемых машин.</p>
@@ -55,5 +55,7 @@
 <p class="dline">условные переходы и циклы отсутствовали.</p>
 <img align="right" style="position:absolute;left:1070px;right:0px;top:0px" border="2" height="300" width="200" src=images/1.jpg>
 <img align="right" style="position:absolute;left:900px;right:0px;top:340px" border="2" height="280" width="370" src=images/2.jpg>
+<br>
+<h5><a href="https://ru.wikipedia.org/">Copyright© Wikipedia</a></h5>
 </body>
 </html>
